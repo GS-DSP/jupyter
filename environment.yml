@@ -2,12 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - psutil
-  - toolz
+  - math
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+  - numpy
+  - scipy
